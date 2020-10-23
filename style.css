@@ -4,6 +4,9 @@ body {
 .go-up {
 				margin-top: -15px;
 				}
+.link {
+                                text-decoration: none;
+                                }
 .expand {
 				margin-top: 20px;
 				border-color: #112440;
